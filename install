@@ -1,9 +1,4 @@
 #!/usr/bin/env bash
-#
-# Try `install_udp.sh --help` for usage.
-#
-# (c) 2024 Jerico
-#
 
 set -e
 
