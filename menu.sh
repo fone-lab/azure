@@ -219,9 +219,9 @@ EOF
 show_banner() {
     clear
     echo -e "\e[1;36m╔═══════════════════════════════════════╗"
-    echo -e "║           TFN-UDP Manager             ║"
+    echo -e "║           HNL-UDP Manager             ║"
     echo -e "║                                       ║"
-    echo -e "║       Telegram: @jerico555            ║"
+    echo -e "║       Auth: Htet Naing Linn           ║"
     echo -e "╚═══════════════════════════════════════╝\e[0m"
     echo -e "\e[1;33mServer Time : $(TZ='Asia/Manila' date '+%I:%M %p')"
     echo -e "Time Zone   : Manila/Philippines"
